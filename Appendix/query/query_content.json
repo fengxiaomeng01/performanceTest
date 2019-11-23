@@ -1,0 +1,8 @@
+{
+  "Note":"This json file is used to collect query content",
+  "Tag":"ASREngine: finalResult:",
+  "Way":"pv",
+  "Content":{
+        "best_result":"uncertain"
+    }
+}

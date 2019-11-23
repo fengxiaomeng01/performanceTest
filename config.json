@@ -1,0 +1,49 @@
+{
+  "Notes":{"1":"dest must be longer than 8 characters, otherwise it won‘t run.",
+           "2":"tester' must be your username,otherwise it won't run", 
+           "3":"gc : garbage collect",
+           "4":"smaps: get process's smaps file for oom", 
+           "5":"proMemory: process's memory info", 
+           "6":"total: device's totalcpu and totalmemory",
+           "7":"info: log's info configure file",
+           "8":"rdReceiver: warning message to this email"
+          },
+  
+	"info":[
+		"Appendix/query/query_content.json",
+                "Appendix/query/query_broadcast_content.json",
+		"Appendix/query/query_errorCode.json",
+                "Appendix/ces/ces_dot.json"
+	],
+
+	"process":[
+		"com.baidu.launcher",
+		"com.baidu.launcher.dcs"
+	],
+   			
+	"tester":"",
+
+        "rdReceiver":"",
+
+	"3F1817126BDA1704":{
+		"dest":"",
+		"process":[],
+		"info":[],
+		"dumpheap":"n",
+		"total":"y",
+		"proMemory":"y",
+        "smaps":"n",
+        "gc":"n"
+        },
+
+	"3F182313514991AD":{
+		"dest":"",
+		"process":[],
+		"info":[],
+		"dumpheap":"n",
+		"total":"y",
+		"proMemory":"y",
+        "smaps":"n",
+        "gc":"n"
+        }
+}
